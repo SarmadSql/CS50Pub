@@ -1,0 +1,7 @@
+1- first clone the repo by git clone "url"
+2- cd into the directory
+3- add the files by git add * / file_Name
+4- git config --global user.email "you@example.com"
+5- git config --global user.name "Name"
+6- git commit
+7- git push
